@@ -12,7 +12,7 @@ namespace WebApplication4
     using System;
     using System.Collections.Generic;
     
-    public partial class order_table
+    public partial class gorder_table
     {
         public int o_id { get; set; }
         public System.DateTime o_date { get; set; }
